@@ -1,0 +1,5 @@
+c:\users\yong.zou.corp\documents\visual studio 2013\Projects\WebApi\Gbi.Web.Data\bin\Debug\Gbi.Web.Data.dll
+c:\users\yong.zou.corp\documents\visual studio 2013\Projects\WebApi\Gbi.Web.Data\bin\Debug\Gbi.Web.Data.pdb
+c:\users\yong.zou.corp\documents\visual studio 2013\Projects\WebApi\Gbi.Web.Data\obj\Debug\Gbi.Web.Data.csprojResolveAssemblyReference.cache
+c:\users\yong.zou.corp\documents\visual studio 2013\Projects\WebApi\Gbi.Web.Data\obj\Debug\Gbi.Web.Data.dll
+c:\users\yong.zou.corp\documents\visual studio 2013\Projects\WebApi\Gbi.Web.Data\obj\Debug\Gbi.Web.Data.pdb

@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gbi.Web.Api", "Gbi.Web.Api\Gbi.Web.Api.csproj", "{99223F0E-A397-4985-9360-206A3AA1739F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gbi.Web.Utility", "Gbi.Web.Utility\Gbi.Web.Utility.csproj", "{826C1A6D-B130-4083-AB6B-D146A247A8D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gbi.Web.Contract", "Gbi.Web.Model\Gbi.Web.Contract.csproj", "{791E7DCC-3A3F-45D3-BFE4-85E4462EF570}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gbi.Web.Data", "Gbi.Web.Data\Gbi.Web.Data.csproj", "{20F9A52D-FA2E-4605-8833-AEB0F461014A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gbi.Web.Logger", "Gbi.Web.Logger\Gbi.Web.Logger.csproj", "{13412CCE-8E23-4264-A4AA-A8BD2E194967}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gbi.Web.Security", "Gbi.Web.Security\Gbi.Web.Security.csproj", "{016DFFFC-0565-4585-ABC3-8C76E2A013CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gbi.Web", "Gbi.Web\Gbi.Web.csproj", "{2BB7C383-A832-41EE-A928-4C0A3A7685FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99223F0E-A397-4985-9360-206A3AA1739F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99223F0E-A397-4985-9360-206A3AA1739F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99223F0E-A397-4985-9360-206A3AA1739F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99223F0E-A397-4985-9360-206A3AA1739F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{826C1A6D-B130-4083-AB6B-D146A247A8D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{826C1A6D-B130-4083-AB6B-D146A247A8D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{826C1A6D-B130-4083-AB6B-D146A247A8D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{826C1A6D-B130-4083-AB6B-D146A247A8D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{791E7DCC-3A3F-45D3-BFE4-85E4462EF570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{791E7DCC-3A3F-45D3-BFE4-85E4462EF570}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{791E7DCC-3A3F-45D3-BFE4-85E4462EF570}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{791E7DCC-3A3F-45D3-BFE4-85E4462EF570}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20F9A52D-FA2E-4605-8833-AEB0F461014A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20F9A52D-FA2E-4605-8833-AEB0F461014A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20F9A52D-FA2E-4605-8833-AEB0F461014A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20F9A52D-FA2E-4605-8833-AEB0F461014A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13412CCE-8E23-4264-A4AA-A8BD2E194967}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13412CCE-8E23-4264-A4AA-A8BD2E194967}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13412CCE-8E23-4264-A4AA-A8BD2E194967}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13412CCE-8E23-4264-A4AA-A8BD2E194967}.Release|Any CPU.Build.0 = Release|Any CPU
+		{016DFFFC-0565-4585-ABC3-8C76E2A013CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{016DFFFC-0565-4585-ABC3-8C76E2A013CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{016DFFFC-0565-4585-ABC3-8C76E2A013CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{016DFFFC-0565-4585-ABC3-8C76E2A013CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BB7C383-A832-41EE-A928-4C0A3A7685FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BB7C383-A832-41EE-A928-4C0A3A7685FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BB7C383-A832-41EE-A928-4C0A3A7685FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BB7C383-A832-41EE-A928-4C0A3A7685FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

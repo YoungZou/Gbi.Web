@@ -1,0 +1,5 @@
+c:\users\yong.zou.corp\documents\visual studio 2013\Projects\WebApi\Gbi.Web.Utility\bin\Debug\Gbi.Web.Utility.dll
+c:\users\yong.zou.corp\documents\visual studio 2013\Projects\WebApi\Gbi.Web.Utility\bin\Debug\Gbi.Web.Utility.pdb
+c:\users\yong.zou.corp\documents\visual studio 2013\Projects\WebApi\Gbi.Web.Utility\obj\Debug\Gbi.Web.Utility.csprojResolveAssemblyReference.cache
+c:\users\yong.zou.corp\documents\visual studio 2013\Projects\WebApi\Gbi.Web.Utility\obj\Debug\Gbi.Web.Utility.dll
+c:\users\yong.zou.corp\documents\visual studio 2013\Projects\WebApi\Gbi.Web.Utility\obj\Debug\Gbi.Web.Utility.pdb

@@ -1,0 +1,4 @@
+c:\users\yong.zou.corp\documents\visual studio 2013\Projects\WebApi\Gbi.Web.Security\bin\Debug\Gbi.Web.Security.dll
+c:\users\yong.zou.corp\documents\visual studio 2013\Projects\WebApi\Gbi.Web.Security\bin\Debug\Gbi.Web.Security.pdb
+c:\users\yong.zou.corp\documents\visual studio 2013\Projects\WebApi\Gbi.Web.Security\obj\Debug\Gbi.Web.Security.dll
+c:\users\yong.zou.corp\documents\visual studio 2013\Projects\WebApi\Gbi.Web.Security\obj\Debug\Gbi.Web.Security.pdb

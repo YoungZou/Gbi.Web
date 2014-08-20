@@ -1,0 +1,4 @@
+c:\users\yong.zou.corp\documents\visual studio 2013\Projects\WebApi\Gbi.Web.Logger\bin\Debug\Gbi.Web.Logger.dll
+c:\users\yong.zou.corp\documents\visual studio 2013\Projects\WebApi\Gbi.Web.Logger\bin\Debug\Gbi.Web.Logger.pdb
+c:\users\yong.zou.corp\documents\visual studio 2013\Projects\WebApi\Gbi.Web.Logger\obj\Debug\Gbi.Web.Logger.dll
+c:\users\yong.zou.corp\documents\visual studio 2013\Projects\WebApi\Gbi.Web.Logger\obj\Debug\Gbi.Web.Logger.pdb
